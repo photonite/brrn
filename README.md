@@ -1,2 +1,2 @@
-# brrn.github.io
+# brrn
 Creates self-destructing links with information
