@@ -1,7 +1,1 @@
-<!DOCTYPE HTML>
-<html>
-<head></head>
-<body>
 Under construction
-</body>
-</html>
